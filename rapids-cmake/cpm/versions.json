@@ -6,9 +6,9 @@
       "git_tag": "v${version}"
     },
     "bs_thread_pool": {
-      "version": "4.1.0",
+      "version": "5.0.0",
       "git_url": "https://github.com/bshoshany/thread-pool.git",
-      "git_tag": "097aa718f25d44315cadb80b407144ad455ee4f9"
+      "git_tag": "aa3fbfbe80762fe3ac90e2bf05e153b92536277a"
     },
     "CCCL": {
       "version": "2.7.0",
